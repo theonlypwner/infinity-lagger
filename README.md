@@ -7,4 +7,4 @@ Tests how many operations per second your computer can do for:
   * Left shift
   * Right shift
 
-![screenshot](http://inf.googlecode.com/files/screenshot.png)
+![screenshot](screenshot.png)
